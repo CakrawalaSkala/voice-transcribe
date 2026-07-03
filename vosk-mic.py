@@ -9,7 +9,7 @@ import serial
 
 USE_MIC = True  
 USE_SERIAL = True
-SERIAL_PORT = "/dev/ttyUSB0"
+SERIAL_PORT = "/dev/ttyUSB1"
 BAUD_RATE = 115200
 
 MODEL_PATH = "model/vosk-model-en-us-0.22-lgraph"
